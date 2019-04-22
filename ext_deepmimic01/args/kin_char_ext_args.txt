@@ -1,0 +1,4 @@
+--scene kin_char
+
+--character_file data/characters/humanoid3d_ext.txt
+--motion_file data/motions/humanoid3d_ext_run_rot_05.txt

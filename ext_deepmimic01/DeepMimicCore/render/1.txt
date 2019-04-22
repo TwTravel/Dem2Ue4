@@ -1,0 +1,49 @@
+  ",
+           //  printout(root);                      0  "Name": "root",
+                 
+ ",
+          //	printout(chest);                        1  "Name": "chest",
+               
+ ",
+           //	printout(neck);                         2  "Name": "neck",
+                
+ ",
+      //jointMat[3]=//	printout(right_hip);            3  "Name": "right_hip",
+         
+ ", AA
+  //	printf("%.2f,\n", right_knee *M_PI / 180.0);  4  "Name": "right_knee", AA
+       
+ ",
+    //	printout(right_ankle);                        5  "Name": "right_ankle",
+         
+    ",
+ //	printout(right_clavicle);                     6  "Name": "right_clavicle",
+      
+     ",
+ //	printout(right_shoulder);                     7  "Name": "right_shoulder",
+      
+   ", AA
+ //	printf("%.2f,\n", right_elbow *M_PI / 180.0); 8  "Name": "right_elbow", AA
+    
+  ", XX
+ 	//PPPPP                                       9  "Name":   "right_wrist", XX
+      
+",
+       //	printout(left_hip);                          10  "Name": "left_hip",
+          
+    ", AA
+   //	printf("%.2f,\n", left_knee*M_PI / 180.0);   11  "Name": "left_knee", AA
+    
+ ",
+     //	printout(left_ankle);                        12  "Name": "left_ankle",
+          
+    ",
+  //	printout(left_clavicle);                     13  "Name": "left_clavicle",
+       
+  ",
+  //	printout(left_shoulder);                     14  "Name": "left_shoulder",
+         
+    ", AA
+  //	printf("%.2f\n", left_elbow*M_PI / 180.0);   15  "Name": "left_elbow", AA
+   
+    ",  XX  	//PPPPP                                        16  "Name": "left_wrist",  XX   
